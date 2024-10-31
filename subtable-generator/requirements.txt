@@ -1,0 +1,11 @@
+defusedxml==0.7.1
+et-xmlfile==1.1.0
+numpy==1.26.0
+odfpy==1.4.1
+openpyxl==3.1.2
+pandas==2.1.1
+python-dateutil==2.8.2
+pytz==2023.3.post1
+six==1.16.0
+tzdata==2023.3
+XlsxWriter==3.1.7
