@@ -1,0 +1,53 @@
+{
+    "grant_countries_settings" :
+    {
+        "name" : "grant_countries",
+        "column_name" : "Страна выдачи",
+        "diagram_title" : "Распределение патентов по странам выдачи",
+        "file_name" : "grant_countries_diagram",
+        "units_limit" : 7,
+        "percent_limit" : 0.6
+
+    },
+    "apply_countries_settings" :
+    {
+        "name" : "apply_countries",
+        "column_name" : "Страна заявитель",
+        "diagram_title" : "Распределение патентов по странам заявителям",
+        "file_name" : "apply_countries_diagram",
+        "units_limit" : 4,
+        "percent_limit" : 0.5        
+    },
+    "appliers_settings" :
+    {
+        "name" : "appliers",
+        "column_name" : "Заявитель",
+        "diagram_title" : "Распределение патентов по фирмам-патентообладателям",
+        "file_name" : "appliers_diagram",
+        "units_limit" : 4,
+        "percent_limit" : 0.3         
+    },
+    "classificator_settings" :
+    {
+        "name" : "classificator",
+        "column_name" : "Классификатор(ы)",
+        "units_limit" : 4,
+        "percent_limit" : 0.5       
+    },
+    "organizations_settings" :
+    {
+        "name" : "organizations",
+        "column_name" : "Организации",
+        "units_limit" : 4,
+        "percent_limit" : 0.5       
+    },
+    "countries_settings" :
+    {
+        "name" : "countries",
+        "column_name" : "Страны",
+        "diagram_title" : "Распределение статей по странам",
+        "file_name" : "countries_diagram",
+        "units_limit" : 7,
+        "percent_limit" : 0.2 
+    }
+}
